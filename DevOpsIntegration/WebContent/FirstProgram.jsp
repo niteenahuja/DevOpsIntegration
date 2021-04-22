@@ -7,6 +7,7 @@
 <title>Git Integration</title>
 
 <h2>Git integration with Jenkins</h2>
+    <h2>Git integration with Jenkins - continous integration</h2>
 
 </head>
 <body>
